@@ -16,7 +16,7 @@ body {
       rgba(4, 9, 30, 0.565),
       rgba(4, 9, 30, 0.577)
     ),
-    url("./eduford_img/banner.png");
+    url("./images/banner.png");
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -344,7 +344,7 @@ p {
   padding: 100px 0;
   text-align: center;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("./eduford_img/banner2.jpg");
+    url("./images/banner2.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 7px;
@@ -398,7 +398,7 @@ p {
 .blog-landing-view {
   height: 50vh;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url("./eduford_img/background.jpg");
+    url("./images/background.jpg");
   background-size: cover;
   background-position: center;
   color: #fff;
