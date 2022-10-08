@@ -9,3 +9,10 @@ document
   .addEventListener("click", function () {
     document.querySelector(".nav-links").style.right = "-220px";
   });
+
+  // loader
+
+  window.addEventListener("load", function () {
+    const loading = document.querySelector(".loading");
+    loading.className += " hidden"; // class "loader hidden"
+});
